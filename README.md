@@ -1,2 +1,2 @@
 # unity
-Exemplod de Unity para aprendizado
+Exemplo de Unity para aprendizado
